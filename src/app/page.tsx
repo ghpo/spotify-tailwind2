@@ -6,6 +6,9 @@ export default function Home() {
   <div className="h-screen flex flex-col">
     <div className="flex flex-1">
       <aside className="w-74 bg-zinc-950 p-6"> 
+        <div className=''>
+          xxx
+        </div>
       <nav className="space-y-5">
       <a href="#" className="flex items-center gap-2 text-sm font-semibold text-zinc-100">
         <HomeIcon /> Home
